@@ -1,5 +1,7 @@
 # tongji-yunpan-cli
 
+**English** | [简体中文](README.zh-CN.md)
+
 Unofficial command-line client for Tongji Yunpan (AnyShare). It logs in with a
 Tongji account, lists directories, uploads and downloads files, creates
 long-term share links, and resolves those links into signed download URLs for
@@ -177,5 +179,3 @@ reference to the AnyShare REST API documentation and the MIT-licensed
 ## License
 
 MIT. See [LICENSE](LICENSE).
-
-Chinese documentation: [README.zh-CN.md](README.zh-CN.md).

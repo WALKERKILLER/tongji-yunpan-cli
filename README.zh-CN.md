@@ -1,10 +1,10 @@
 # tongji-yunpan-cli
 
+[English](README.md) | **简体中文**
+
 同济云盘（AnyShare）的非官方命令行工具。支持登录、列目录、上传、下载、创建长期分享链接，也支持把分享链接解析成带签名的下载直链。
 
 本项目与同济大学、爱数（AISHU）无关。使用前请阅读 [DISCLAIMER.md](DISCLAIMER.md)。
-
-英文文档见 [README.md](README.md)。
 
 ## 功能
 
